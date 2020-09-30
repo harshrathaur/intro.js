@@ -96,6 +96,7 @@ View [contribution guidlines](https://github.com/usablica/intro.js/blob/master/C
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/intro.js)
 
 ## License
+Amazing
 
 ### Commercial license
 
